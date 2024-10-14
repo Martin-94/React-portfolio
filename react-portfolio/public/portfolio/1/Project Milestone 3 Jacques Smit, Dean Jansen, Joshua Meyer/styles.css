@@ -1,0 +1,182 @@
+
+body {
+    font-family: Dosis;
+    src: url(https://fonts.googleapis.com/css2?family=Dosis:wght@200;500&display=swap);
+    src: url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;500&display=swap");
+    margin: 0;
+    background-color: #a3a1b9;
+    font-family: Dosis;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+header{
+    background: #352d39;
+    height: 115px;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.logo {
+    float: left;
+}
+
+nav {
+    
+    float: right;
+}
+
+nav ul {
+    background-color: #ff3147;
+    height: 115px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    background-color: #ff3147;
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 70px;
+    padding-top: 40px;
+}
+
+nav a {
+    background-color: #ff3147;
+    color: #352d39;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+
+#content {
+    width: 960px;
+    background: #fff;
+    padding: 50px;
+  }
+
+.textpage {
+    font-family: Dosis;
+    margin-left: 10%;
+}
+
+.textpage p {
+    font-family: "Arial Narrow";
+    font-size: 150%;
+}
+.RMtitle{
+    font-size: 300%;
+    font-family:"Blackadder FfC";
+    padding-left: 390px;
+    padding-top: 20px;
+    
+}
+.RMsubtitle{
+    padding-left: 150px;
+    font-family:"Blackadder FfC";
+}
+.formbox{
+    background:none;
+    margin-left: 370px;
+    width: 700px;
+    height: 600px;
+    text-align: center;
+}
+hr
+{
+width: 70%;
+}
+.formtext{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family:"Blackadder FfC";
+    
+}
+button{
+    background-color: #ff3147;
+    width: 80px;
+    height:40px;
+    margin:auto;
+    
+}
+.bodyoverwrite{
+    margin: 0;
+    background-image:url(./WeddingMedia/depositphotos_60430607-stock-photo-wedding-background-with-gold-rings.jpg);
+    background-repeat: no-repeat;
+    background-size:1500px 1200px;
+    
+}
+
+#gallery{
+    margin-left: 150px;
+    line-height: 0;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 4px;
+    column-count: 4;
+    column-gap: 10px;
+}
+#gallery img{
+    width: 250px;
+    height: 250px;
+    margin-bottom: 5px;
+}
+#videoGallery{
+    margin-left: 150px;
+    line-height: 0;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 4px;
+    column-count: 2;
+    column-gap: 50px;
+}
+#videoGallery video{
+    width: 1160px;
+    height: 700px;
+    margin-bottom: 5px;
+}
+
+#content {
+    width: 960px;
+    background: #fff;
+    padding: 50px;
+  }
+
+.textpage {
+    font-family: Dosis;
+    margin-left: 20%;
+}
+
+.textpage p {
+    font-family: "Arial Narrow";
+    font-size: 150%;
+}
+
+.about{
+    font-family: Dosis;
+    text-align: center;
+    color: black;
+    font-size: 130%;
+}
+
+.contact{
+    font-family: Dosis;
+    text-align: center;
+    color: black;
+    font-size: 150%;
+}
+
+.msg{
+    padding: 20px;
+    color: black;
+    font-family: Dosis;
+    font-size: 130%;
+}

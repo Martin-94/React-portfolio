@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/Potrait.jpg",
+            "title": "CV",
+            "description": "PDF CV document",
+            "url": "/portfolio/1/Joshua Meyer CV.pdf"
+        },
+        {
+            "cover": "/portfolio/1/tr-aws-certification-learn-aws-online.png",
+            "title": "AWS Certificate",
+            "description": "AWS Tools to Develop, Run, and Modernize .NET Workloads",
+            "url": "/portfolio/1/AWS Course Completion Certificate.pdf"
+        },
+        {
+            "cover": "/portfolio/1/tr-aws-certification-learn-aws-online.png",
+            "title": "AWS Certificate",
+            "description": ".NET Workloads on AWS App Runner",
+            "url": "/portfolio/1/AWS Course Completion Certificate.pdf"
+        }
+    ]
+}
